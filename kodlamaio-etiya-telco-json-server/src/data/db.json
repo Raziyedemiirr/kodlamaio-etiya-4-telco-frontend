@@ -4,34 +4,34 @@
       "id": 1,
       "customerId": 1,
       "firstName": "Prudi",
-      "middleName": "Meta",
+      "middleName": "",
       "lastName": "Gronw",
-      "birthDate": "4/15/1998",
+      "birthDate": "2022-09-14",
       "gender": "Female",
-      "nationalityId": 48776304564,
+      "nationalityId": 48889547345,
       "role": "cooperative",
       "motherName": "Hanna",
-      "fatherName": "Chris",
+      "fatherName": "",
       "addresses": [
         {
-          "id": 1,
           "city": {
             "id": 1,
             "name": "New York"
           },
-          "street": "Granby",
-          "flatNumber": 6,
-          "description": "6128 Jay Alley"
+          "street": "87698",
+          "flatNumber": "18",
+          "description": "**********************************************************************************************************************************************************************************************************************************************************",
+          "id": 2
         },
         {
-          "id": 2,
           "city": {
-            "id": 1,
-            "name": "New York"
+            "id": 5,
+            "name": "Phoenix"
           },
-          "street": "Oak Valley",
-          "flatNumber": 18,
-          "description": "68 Hudson Street"
+          "street": "kj",
+          "flatNumber": "nmhb",
+          "description": "jblj",
+          "id": 2
         }
       ],
       "contactMedium": {
@@ -205,8 +205,8 @@
       "middleName": "Far",
       "lastName": "Bonnet",
       "birthDate": "5/23/1962",
-      "gender": "Male",
-      "nationalityId": 68951141024,
+      "gender": "Erkek",
+      "nationalityId": "6895114102",
       "role": "individual",
       "motherName": "Zarla",
       "fatherName": "Leo",
@@ -732,7 +732,7 @@
       "lastName": "Glaum",
       "birthDate": "10/24/1978",
       "gender": "Male",
-      "nationalityId": 57571473914,
+      "nationalityId": "5757147391",
       "role": "cooperative",
       "motherName": "Neilla",
       "fatherName": "Glenden",
@@ -1101,14 +1101,14 @@
       "id": 9,
       "customerId": 9,
       "firstName": "Cori",
-      "middleName": "Ilise",
+      "middleName": "",
       "lastName": "Draysey",
       "birthDate": "6/6/1992",
       "gender": "Female",
       "nationalityId": 20553383810,
       "role": "cooperative",
       "motherName": "Dynah",
-      "fatherName": "Tracie",
+      "fatherName": "s",
       "addresses": [
         {
           "id": 1,
@@ -1714,31 +1714,31 @@
       "id": 15,
       "customerId": 15,
       "firstName": "Margaret",
-      "middleName": "Sonnnie",
+      "middleName": "",
       "lastName": "Skelton",
       "birthDate": "1/29/1987",
-      "gender": "Female",
-      "nationalityId": 81974357535,
+      "gender": "Erkek",
+      "nationalityId": 87766754695,
       "role": "individual",
-      "motherName": "Randene",
+      "motherName": "",
       "fatherName": "Arne",
       "addresses": [
         {
-          "id": 1,
           "city": {
             "id": 4,
             "name": "Houston"
           },
           "street": "Mayer",
           "flatNumber": 3,
-          "description": "66793 Vahlen Circle"
+          "description": "66793 Vahlen Circle",
+          "id": 1
         }
       ],
       "contactMedium": {
-        "email": "askeltone@google.com",
-        "homePhone": "837 721 4760",
-        "mobilePhone": "+63 470 955 1632",
-        "fax": "710-337-8552"
+        "email": "raziye.demir@etiya.com",
+        "homePhone": "1111111",
+        "mobilePhone": "11111111111",
+        "fax": "11111111111"
       },
       "billingAccounts": [
         {
@@ -2565,6 +2565,122 @@
           ]
         }
       ]
+    },
+    {
+      "customerId": 9999,
+      "firstName": "raziye",
+      "middleName": "",
+      "lastName": "DEMİR",
+      "birthDate": "2234-01-02",
+      "gender": "Female",
+      "nationalityId": 11111111111,
+      "role": "individual",
+      "motherName": "",
+      "fatherName": "",
+      "addresses": [
+        {
+          "city": {
+            "id": 5,
+            "name": "Phoenix"
+          },
+          "street": "djkjhfjkkn",
+          "flatNumber": "lk",
+          "description": "djkjhfjkkn\njkdjbfjkl\nkdlkjfbdklk\ndklknfklskd",
+          "id": 1,
+          "type": "[CustomerToAdd] Add Address Info"
+        }
+      ],
+      "contactMedium": {
+        "email": "r.dmr278@gmail.com",
+        "homePhone": "5435661872",
+        "mobilePhone": "05435661872",
+        "fax": "4356346",
+        "type": "[CustomerToAdd] Set ContactMedium Info"
+      },
+      "billingAccounts": [],
+      "type": "[CustomerToAdd] Set Demographic Info",
+      "id": 21
+    },
+    {
+      "customerId": 9999,
+      "firstName": "raziye",
+      "middleName": "mj",
+      "lastName": "DEMİR",
+      "birthDate": "32222-02-22",
+      "gender": "Other",
+      "nationalityId": 11143333333,
+      "role": "individual",
+      "motherName": "111111111111111111111111111",
+      "fatherName": "",
+      "addresses": [
+        {
+          "city": {
+            "id": 5,
+            "name": "Phoenix"
+          },
+          "street": "djkjhfjkkn",
+          "flatNumber": "lk",
+          "description": "djkjhfjkkn\njkdjbfjkl\nkdlkjfbdklk\ndklknfklskd",
+          "id": 1,
+          "type": "[CustomerToAdd] Add Address Info"
+        },
+        {
+          "city": {
+            "id": 3,
+            "name": "Chicago"
+          },
+          "street": "few",
+          "flatNumber": "ewe",
+          "description": "eewew",
+          "id": 2,
+          "type": "[CustomerToAdd] Add Address Info"
+        }
+      ],
+      "contactMedium": {
+        "email": "r.dmr278@gmail.com",
+        "homePhone": "5435661872",
+        "mobilePhone": "05435661872",
+        "fax": "4356346",
+        "type": "[CustomerToAdd] Set ContactMedium Info"
+      },
+      "billingAccounts": [],
+      "type": "[CustomerToAdd] Set Demographic Info",
+      "id": 22
+    },
+    {
+      "customerId": 9999,
+      "firstName": "4364e5756865767",
+      "middleName": "",
+      "lastName": "867867867",
+      "birthDate": "275760-07-06",
+      "gender": "Female",
+      "nationalityId": 76865785678,
+      "role": "individual",
+      "motherName": "",
+      "fatherName": "",
+      "addresses": [
+        {
+          "city": {
+            "id": 3,
+            "name": "Chicago"
+          },
+          "street": "ewdwq",
+          "flatNumber": "wdwqd",
+          "description": "wqdwqd",
+          "id": 1,
+          "type": "[CustomerToAdd] Add Address Info"
+        }
+      ],
+      "contactMedium": {
+        "email": "r.dmr278@gmail.com",
+        "homePhone": "5435661872",
+        "mobilePhone": "34645765879",
+        "fax": "214235345",
+        "type": "[CustomerToAdd] Set ContactMedium Info"
+      },
+      "billingAccounts": [],
+      "type": "[CustomerToAdd] Set Demographic Info",
+      "id": 23
     }
   ],
   "offers": [
